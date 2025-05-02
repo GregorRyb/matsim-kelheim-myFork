@@ -389,7 +389,7 @@ public class RunKelheimScenario extends MATSimApplication {
 	}
 
 	/*
-	Simple method to reduece the free speed on all links where cars are allowed.
+	Simple method to reduce the free speed on all links where cars are allowed.
 	 */
 	private void addNetworkModifications(Network network) {
 		//parse the network links
